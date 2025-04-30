@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+numpy
+Flask
+itsdangerous
+WTForms
+matplotlib
+
+scikit-learn
+flask_socketio
