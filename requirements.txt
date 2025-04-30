@@ -8,3 +8,5 @@ matplotlib
 
 scikit-learn
 flask_socketio
+gunicorn
+eventlet
