@@ -1,5 +1,5 @@
 opencv-python==4.7.0.72
-mediapipe==0.10.9
+mediapipe
 numpy==1.24.4
 Flask==2.3.3
 itsdangerous==2.1.2
